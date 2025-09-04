@@ -48,8 +48,6 @@ Here are the business questions I solved with SQL:
 - 🛒 Sales share by genre  
 - ⚠️ Low stock alert table  
 
-*(I can generate these visuals in Excel/Power BI — screenshots can be added here.)*
-
 ---
 
 ## 🔹 Why This Project Matters
@@ -59,9 +57,7 @@ This project shows how SQL connects to real business needs:
 - **Identify risks** (low stock, declining genres)  
 - **Spot opportunities** (loyal customers, trending books)  
 
-This is the kind of analysis a data analyst would do in a real company.
 
----
 
 ## 🔹 How to Run It
 1. Create a database called `OnlineBooks` in PostgreSQL  
